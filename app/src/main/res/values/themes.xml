@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.GeminiAPIStarter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Light theme overrides -->
+        <item name="android:statusBarColor">@color/purple_500</item>
+        <item name="android:navigationBarColor">@color/purple_500</item>
+        <item name="android:windowBackground">@color/background_light</item>
+
+        <!-- Explicitly set EditText colors -->
+        <item name="android:textColor">@color/edittext_text</item>
+        <item name="android:textColorHint">@color/edittext_hint</item>
+    </style>
+
+    <style name="Theme.GeminiAPIStarter" parent="Base.Theme.GeminiAPIStarter" />
+</resources>

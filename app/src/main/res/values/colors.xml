@@ -1,0 +1,15 @@
+<resources>
+    <!-- Brand colors -->
+    <color name="purple_500">#7E57C2</color>
+    <color name="teal_200">#80CBC4</color>
+
+    <!-- Background / text (light) -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="text_light">#000000</color>
+
+    <!-- Input field colors -->
+    <color name="edittext_text">#000000</color>   <!-- black text -->
+    <color name="edittext_hint">#80000000</color> <!-- gray hint -->
+
+    <color name="white">#FFFFFF</color>
+</resources>
